@@ -1,1 +1,3 @@
 # RapidBoxIndexer
+
+## Core functionality
